@@ -11,11 +11,11 @@ def get_requirements(filepath: str) -> List[str]:
 
 
 setup(
-    name="qasystem",
-    version="0.0.1",
-    description="Machine Learning Pipeline Project Structure",
-    author="Mayukh Haldar",
-    author_email="mayukhhaldar1@gmail.com",
+    name="name_of_your_project",
+    version="version_of_your_project",
+    description="project_description",
+    author="your_name",
+    author_email="your_email",
     packages=find_packages(),
     install_requires=get_requirements("requirements.txt")
 )
