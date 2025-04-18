@@ -1,1 +1,1 @@
-# project-template
+# Project Template for Gen AI
